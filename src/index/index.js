@@ -1,0 +1,2 @@
+// imports
+import './index.scss';
